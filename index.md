@@ -13,7 +13,7 @@ Just some random highlights of what I did so far ...
 * Promote and establish DevOps practices (automation, measurement, knowledge transfer)
 * Design, implement & operate a world-wide accessible cloud-based provisioning service based on [Chef](https://www.chef.io/) & [Ruby](https://www.ruby-lang.org/)
 * Implement an automation tool for operations using [Python](https://www.python.org/)
-* Introduce & operate a [MongoDB](https://www.mongodb.com/) cluster solution using replication
+* Introduce & operate a [MongoDB](https://www.mongodb.com/) cluster solution incl. replication
 * Operate one of Germany's leading web portals
 * [MySQL](https://www.mysql.com/) tuning for high volume data processing using DB-level sharding
 * [JVM GC](https://www.oracle.com/technetwork/java/javase/tech/index-jsp-140228.html) tuning for various profiles
