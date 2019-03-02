@@ -1,4 +1,4 @@
-# Install Jekyll
+## Install Jekyll
 
 ```bash
 ruby --version   # has to be >= 2.1.0
@@ -6,13 +6,13 @@ gem install bundler
 bundle install
 ```
 
-# Update Gems (e.g Jekyll)
+## Update Gems (e.g Jekyll)
 
 ```bash
 bundle update
 ```
 
-# Local Build of Site
+## Local Build of Site
 
 ```bash
 bundle exec jekyll serve
@@ -20,7 +20,7 @@ bundle exec jekyll serve
 
 Open http://127.0.0.1:4000/ in browser.
 
-# References
+## References
 
 * [About GitHub Pages and Jekyll](https://help.github.com/en/articles/about-github-pages-and-jekyll)
 * [Customizing GitHub Pages](https://help.github.com/en/categories/customizing-github-pages)
