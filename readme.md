@@ -22,8 +22,5 @@ Open http://127.0.0.1:4000/ in browser.
 
 ## References
 
-* [About GitHub Pages and Jekyll](https://help.github.com/en/articles/about-github-pages-and-jekyll)
-* [Customizing GitHub Pages](https://help.github.com/en/categories/customizing-github-pages)
-* [Configuring Jekyll](https://help.github.com/en/articles/configuring-jekyll)
+* [About GitHub Pages and Jekyll](https://help.github.com/en/github/working-with-github-pages/about-github-pages-and-jekyll)
 * [Jekyll](https://jekyllrb.com/)
-* [Jekyll Docs](https://jekyllrb.com/docs/pages/)
