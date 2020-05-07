@@ -1,8 +1,11 @@
 ## Install Jekyll
 
 ```bash
-ruby --version   # has to be >= 2.1.0
-gem install bundler
+ruby --version   # has to be >= 2.5.0
+# install Gems into your home directory to avoid need for root permissions
+export GEM_HOME="${HOME}/gems"
+export PATH="${HOME}/gems/bin:${PATH}"
+gem install jekyll bundler
 bundle install
 ```
 
