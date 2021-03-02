@@ -23,6 +23,14 @@ bundle exec jekyll serve
 
 Open http://127.0.0.1:4000/ in browser.
 
+## Troubleshooting
+
+Disable IPv6 (in case of persistent network problems):
+```bash
+sudo sysctl -w net.ipv6.conf.default.disable_ipv6=1
+sudo sysctl -w net.ipv6.conf.all.disable_ipv6=1
+```
+
 ## References
 
 * [About GitHub Pages and Jekyll](https://help.github.com/en/github/working-with-github-pages/about-github-pages-and-jekyll)
