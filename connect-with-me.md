@@ -5,9 +5,7 @@ permalink: /connect-with-me/
 
 {% include navigation.html %}
 
-* Business network profiles
-  * [LinkedIn](https://www.linkedin.com/in/udojuettner/)
-  * [XING](https://www.xing.com/profile/Udo_Juettner)
+* Business network [profile at LinkedIn](https://www.linkedin.com/in/udojuettner/)
   * *As I try to keep my business network as clean as possible, I generally do not accept invitations by recruiters (except for in-house recruiters).*
 * [Blog](https://dumb-tiger.blogspot.com/)
   * *Most posts are about private activities, but there are also some technical posts.*
