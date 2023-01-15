@@ -8,7 +8,7 @@ permalink: /work-with-me/
 ## Areas of work that I’m interested in
 
 * Software development
-  * I'm absolutely convinced of [Golang](https://golang.org/), but I'd like to grow with [Rust](https://www.rust-lang.org/) or [Exlixir](https://elixir-lang.org/).
+  * I'm absolutely convinced of [Golang](https://golang.org/), but I'd like to grow with [Rust](https://www.rust-lang.org/) or [Elixir](https://elixir-lang.org/).
 * Distributed systems
 * Realtime stream processing & Big Data
 * Internet of Things
