@@ -6,6 +6,7 @@ permalink: /
 {% include navigation.html %}
 
 Just some random highlights of what I did so far ...
+* Implement & operate an event-driven, highly scalable and business critical platform for IoT devices mounted on industrial equipment. Technologies used: [Golang](https://golang.org/), [TypeScript](https://www.typescriptlang.org), [Terraform](https://developer.hashicorp.com/terraform), [Pulumi](https://www.pulumi.com/product/infrastructure-as-code/) & [AWS](https://aws.amazon.com/).
 * Implement & operate a realtime header bidding platform using [Golang](https://golang.org/) & [JavaScript](https://ecma-international.org/ecma-262/) running on [GKE](https://cloud.google.com/kubernetes-engine/)
 * Implement & operate an [OpenShift](https://www.openshift.com/)-/[Kubernetes](https://kubernetes.io/)-based streaming platform to pseudonymise events from [Kafka](https://kafka.apache.org/) using [Golang](https://golang.org/)
 * Implement & operate a BigData platform based on [Hadoop](https://hadoop.apache.org/) using [Java](https://www.java.com/)
